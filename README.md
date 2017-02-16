@@ -29,6 +29,14 @@ LeafPic is now available in a beta release on the Play Store, you can join [here
 
 </div>
 
+相册和视频app是最常见的app之一，任何一个安卓设备上都能看到。是否好奇过它们是如何实现的呢？LeafPic是你可以尝试和学习的最佳开源相册程序之一。
+
+它非常简单，容易理解，适合任何一个初级开发者。从这个app中我发现的最好的东西就是它实现动态主题的方式。这可是许多开发者费劲千辛万苦想要做好的东西。
+
+
+
+
+
 #### Contributing
 
 ###### Code & Issues
